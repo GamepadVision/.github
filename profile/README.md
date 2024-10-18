@@ -54,5 +54,5 @@ This project is licensed under the **MIT License**. See the [LICENSE.md](LICENSE
 
 ## **Contact**
 For inquiries or if you have questions about contributing, feel free to reach out:
-- Website: [Gamepadvision Website](https://gamepadvision.netlify.app)
+- Website: [Gamepadvision Website](https://gamepadvision.com)
 - Discord: [Community](https://discord.gg/7HnSE6Jsam)
